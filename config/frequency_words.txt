@@ -12,7 +12,8 @@ lovable
 v0
 zed
 pulsar
-lapce
+lapcelapce
+verdent
 
 # ========== AI CLI/终端工具 ==========
 github copilot
