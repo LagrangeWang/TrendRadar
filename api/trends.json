@@ -1,666 +1,111 @@
 {
-  "generated_at": "2025-11-18T21:29:49.999783+08:00",
-  "total_titles_processed": 1139,
-  "failed_sources": [
-    "toutiao",
-    "baidu",
-    "wallstreetcn-hot",
-    "thepaper",
-    "bilibili-hot-search",
-    "cls-hot",
-    "ifeng",
-    "jin10",
-    "wallstreetcn-quick",
-    "tieba",
-    "weibo",
-    "douyin",
-    "zhihu"
-  ],
+  "generated_at": "2025-11-19T00:32:53.281346+08:00",
+  "total_titles_processed": 314,
+  "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# ========== 政治/国际 ========== 特朗普 伊朗",
-      "match_count": 48,
+      "keyword_group": "# ========== 其他科技热点 ========== DeepSeek 梁文锋 谷歌 google gemini chatgpt openai",
+      "match_count": 4,
       "titles": [
         {
-          "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
-          "url": "https://news.ifeng.com/c/8oM8wzd4xsr",
-          "source": "凤凰网",
+          "title": "谷歌发布超强模型Gemini 3 推理与编码能力实现巨大飞跃",
+          "url": "https://flash.jin10.com/detail/20251119000857307800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "谷歌：即日起，美国地区的Google AI Pro和Ultra订阅用户可以使用Gemini 3 Pro。",
+          "url": "https://flash.jin10.com/detail/20251119000659140800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时24分]"
-        },
-        {
-          "title": "“生活成本”已成特朗普重点，美银：白宫将加大“价格干预”，贸易战“结束”了",
-          "url": "https://wallstreetcn.com/articles/3759513",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 11时19分]"
-        },
-        {
-          "title": "曝特朗普与昔日得力干将决裂",
-          "url": "https://www.toutiao.com/trending/7573470510160399923/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时24分]"
-        },
-        {
-          "title": "美国总统特朗普：有个国家想重新谈判其贸易协议的条款。",
-          "url": "https://flash.jin10.com/detail/20251118041032271800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时30分"
+          "time_info": "00时32分"
         },
         {
-          "title": "白宫官员：若特朗普保留最终决策权，其将签署对俄制裁法案",
-          "url": "https://flash.jin10.com/detail/20251118071300493800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "美国总统特朗普：可能会允许美国出售F-35战斗机给沙特。",
-          "url": "https://wallstreetcn.com/livenews/3006043",
+          "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
+          "url": "https://wallstreetcn.com/livenews/3006643",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时30分"
+          "time_info": "00时32分"
         },
         {
-          "title": "美国总统特朗普：我们必须培训我们的人员如何制造芯片。",
-          "url": "https://flash.jin10.com/detail/20251118040950625800",
+          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
+          "url": "https://www.cls.cn/detail/2204017",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========== AI 编程助手平台 ========== Devin devin Sweep sweep Aider aider Void void Augment augment Lovable lovable MarsCode marscode CodeFlicker codeflicker Kwaicoder kwaicoder AI 编程助手 AI 代码助手",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场消息：瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。",
+          "url": "https://flash.jin10.com/detail/20251119001718357800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时30分"
+          "time_info": "00时32分"
         },
         {
-          "title": "美国总统特朗普：马杜罗对我们的国家造成了巨大的损害，在某个时候，我会与马杜罗交谈。",
-          "url": "https://flash.jin10.com/detail/20251118040902719800",
-          "source": "金十数据",
+          "title": "瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3006649",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "美国总统特朗普：由于关税，芯片制造商正在回归美国。",
-          "url": "https://flash.jin10.com/detail/20251118040818746800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "美国总统特朗普：将“强烈”支持反对那些不允许重新划分选区的印第安纳州国会议员。",
-          "url": "https://flash.jin10.com/detail/20251118001800685800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时25分]"
-        },
-        {
-          "title": "美国总统特朗普考虑将联邦应急管理局（FEMA）总部迁移到得州。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3006089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时24分]"
-        },
-        {
-          "title": "特朗普会晤麦当劳高层 借力快餐业宣传“降成本”",
-          "url": "https://flash.jin10.com/detail/20251118022346362800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时21分]"
-        },
-        {
-          "title": "联合国安理会通过由美国起草的决议，支持美国总统特朗普的加沙和平计划。",
-          "url": "https://flash.jin10.com/detail/20251118060501977800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时24分]"
-        },
-        {
-          "title": "美国总统特朗普：我们必须训练自己的人来制造芯片。",
-          "url": "https://wallstreetcn.com/livenews/3006040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 05时24分]"
-        },
-        {
-          "title": "特朗普表态支持俄罗斯制裁法案 参议院或很快进行投票",
-          "url": "https://flash.jin10.com/detail/20251118021849040800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时21分]"
-        },
-        {
-          "title": "美国总统特朗普：关于委内瑞拉，我不能排除任何可能性。",
-          "url": "https://wallstreetcn.com/livenews/3006037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 05时24分]"
-        },
-        {
-          "title": "特朗普政府FEMA代理局长辞职 任职仅六个月",
-          "url": "https://flash.jin10.com/detail/20251118015327996800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时21分]"
-        },
-        {
-          "title": "美国总统特朗普将在会见麦当劳的控股方（所有人）、运营方、供应商时谈论经济形势，并兜售特朗普政府在压低生活成本方面所付出的努力。 美国民众对通胀压力的担忧情绪日益沉重。",
-          "url": "https://wallstreetcn.com/livenews/3006014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时30分]"
-        },
-        {
-          "title": "美联储理事沃勒：拒绝评论美国总统特朗普针对FOMC利率的论调是否对美联储有帮助。",
-          "url": "https://wallstreetcn.com/livenews/3006059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时26分]"
-        },
-        {
-          "title": "美联储理事沃勒：拒绝评论美国总统特朗普有关利率的言论是否对美联储有帮助。",
-          "url": "https://flash.jin10.com/detail/20251118050638889800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时26分]"
-        },
-        {
-          "title": "力拓对美铝材加收附加费 特朗普关税引发市场结构性破坏",
-          "url": "https://flash.jin10.com/detail/20251118014247009800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时21分]"
-        },
-        {
-          "title": "特朗普为何因关税问题大动肝火",
-          "url": "https://www.toutiao.com/trending/7573841857147309614/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 11时19分]"
-        },
-        {
-          "title": "美国总统特朗普：一年之内，我们将占据芯片制造市场的大部分份额。",
-          "url": "https://flash.jin10.com/detail/20251118040757523800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "美国总统特朗普：关于委内瑞拉，我不会排除任何可能性。",
-          "url": "https://flash.jin10.com/detail/20251118040614022800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "美国白宫官员：如果美国总统特朗普保留决策权，他将签署对俄制裁法案。",
-          "url": "https://flash.jin10.com/detail/20251118065007253800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "美国总统特朗普：我可能会与马杜罗交谈。",
-          "url": "https://flash.jin10.com/detail/20251118040549340800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "Tiger Woods和马斯克预计将出席美国总统特朗普与MBS（沙特王储）的宴会。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3006093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "美国总统特朗普：我们只需要处理好委内瑞拉的问题。",
-          "url": "https://flash.jin10.com/detail/20251118040455633800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "特朗普称计划向沙特出售F-35战机",
-          "url": "https://wallstreetcn.com/livenews/3006205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "美国总统特朗普：（被问及健康状况）我感觉棒极了。",
-          "url": "https://flash.jin10.com/detail/20251118040355006800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "据Punchbowl：马斯克预计将出席美国总统特朗普与沙特王储穆罕默德·本·萨勒曼的晚宴。",
-          "url": "https://flash.jin10.com/detail/20251118063214752800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "美联储理事Lisa Cook首次就美国总统特朗普政府提出的抵押贷款指控进行辩护。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3006030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "特朗普暗示采取军事打击行动 施压墨西哥等拉美国家",
-          "url": "https://flash.jin10.com/detail/20251118062849390800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "美国一家上诉法院预计将在周一听取部分家庭的辩论，他们敦促上诉法院恢复超过500起针对泰诺制造商Kenvue（科赴）的索赔诉讼。此前，特朗普政府公开宣传了他们的说法，即这种广泛使用的止痛药与儿童自闭症有关。",
-          "url": "https://flash.jin10.com/detail/20251117234128931800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "白宫高级官员：特朗普总统拥有“经过验证的经济方案”，但“需要更多时间才能见效”。",
-          "url": "https://flash.jin10.com/detail/20251118035507614800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "白宫高级官员：预计在未来几天和几周内，特朗普总统将宣布更多关于控制医疗保健成本的举措。",
-          "url": "https://flash.jin10.com/detail/20251118035505829800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "美联储理事沃勒：支持FOMC在12月为了“风险管理”而再次降息。 美国劳动力市场仍然疲软，接近停滞速度。 剔除关税因素的基础通胀接近2%这一目标。 中期、长期通胀预期被锚定。 剔除（美国总统特朗普的）政府关门事件的影响之后，GDP（仍然）可能已经在2025年下半年放缓。 大部分家庭难以购房，也难以购车。 没有看到任何能够让美国通胀加速的因素。 工人需求的降速超过供应的下降速度。 许多企业裁员，或者允许人头数下降。",
-          "url": "https://wallstreetcn.com/livenews/3006047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "白宫高级官员：考虑到安全问题，（未来）特朗普的活动可能大多是室内的大型集会，而不是室外的活动。",
-          "url": "https://flash.jin10.com/detail/20251118035500161800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "据Politico：特朗普考虑将美国联邦紧急事务管理局（FEMA）总部迁移到得州。",
-          "url": "https://flash.jin10.com/detail/20251118061632356800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "白宫高级官员：特朗普可能在年底前在国内进行活动，讨论经济问题，明年年初将增加更多行程。",
-          "url": "https://flash.jin10.com/detail/20251118035457362800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "特朗普释放可能军事打击墨西哥的信息，墨西哥比索跌幅扩大",
-          "url": "https://wallstreetcn.com/livenews/3006045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "白宫高级官员：特朗普总统倾向于支持向沙特阿拉伯出售F35战斗机。",
-          "url": "https://flash.jin10.com/detail/20251118035429740800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "洛克希德-马丁股价走高。 美国总统特朗普宣称，可能会允许美国出售F-35战斗机给沙特。",
-          "url": "https://wallstreetcn.com/livenews/3006043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "据Axios：美国商务部延长特朗普时期人工智能出口计划期限。",
-          "url": "https://flash.jin10.com/detail/20251117231526009800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "美国总统特朗普：美国将确保持有世界杯门票的外国旅客能优先预约签证。",
-          "url": "https://flash.jin10.com/detail/20251118035302877800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "特朗普表态支持公开爱泼斯坦案文件",
-          "url": "https://www.toutiao.com/trending/7572905836377604105/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "特朗普：计划向沙特出售F-35战机",
-          "url": "https://flash.jin10.com/detail/20251118045900869800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "据沙特官方通讯社：沙特王储在对美国进行访问前收到伊朗总统来信。",
-          "url": "https://flash.jin10.com/detail/20251118043856620800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "00时32分"
         }
       ]
     },
     {
-      "keyword_group": "# ========== 其他科技热点 ========== DeepSeek 梁文锋 谷歌 google gemini chatgpt openai",
-      "match_count": 8,
+      "keyword_group": "# ========== 政治/国际 ========== 特朗普 伊朗",
+      "match_count": 2,
       "titles": [
         {
-          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
-          "url": "https://wallstreetcn.com/articles/3759493",
-          "source": "华尔街见闻",
+          "title": "墨西哥比索兑美元重新涨超0.2%，该国总统辛鲍姆认为，美国总统特朗普通过军事手段打击其境内毒贩的暗示“不会发生”。",
+          "url": "https://wallstreetcn.com/livenews/3006650",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时24分]"
-        },
-        {
-          "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2202991",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 11时19分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：在Google VIDS中扩大了Gemini的使用范围。拥有Gmail账号的任何人都可使用Google VIDS中的Gemini功能。（注：Google Vids是一款AI赋能的视频制作应用）",
-          "url": "https://flash.jin10.com/detail/20251118065706358800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时24分"
+          "time_info": "00时32分"
         },
         {
-          "title": "如何看待谷歌用 AI 找 FFmpeg 的 bug 并逼维护者修复，遭怒怼「有本事自己修」？",
-          "url": "https://www.zhihu.com/question/1970226468920471782",
-          "source": "知乎",
+          "title": "安理会为何通过特朗普加沙方案",
+          "url": "https://www.toutiao.com/trending/7574044960240963135/",
+          "source": "今日头条",
           "ranks": [
-            9
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "谷歌：将投资建设两个面向跨印度洋地区的全新连接枢纽。",
-          "url": "https://flash.jin10.com/detail/20251117234205955800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "市场消息：美国最高法院拒绝受理针对苹果、谷歌和LG的专利上诉案。",
-          "url": "https://flash.jin10.com/detail/20251118002000418800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "谷歌A(GOOGL.O)：WeatherNext 2的预报速度提升了8倍。",
-          "url": "https://flash.jin10.com/detail/20251117230825709800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "市场消息：谷歌DeepMind和谷歌研究院正在开发先进天气预报模型Weathernext 2。",
-          "url": "https://flash.jin10.com/detail/20251117230741597800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "00时32分"
         }
       ]
     }
