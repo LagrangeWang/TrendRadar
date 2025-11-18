@@ -1,3 +1,56 @@
+# ========== AI IDE/编辑器 ==========
+cursor
+windsurf
+cline
+aider
+supermaven
+void
+augment
+replit
+bolt.new
+lovable
+v0
+zed
+pulsar
+lapce
+
+# ========== AI CLI/终端工具 ==========
+github copilot
++cli
+warp
+trae
+fig
+kiro
+
+# ========== AI 代码补全/Agent ==========
+codeium
+tabnine
+qodo
+continue
+codegpt
+copilot
+
+# ========== AI 编程助手/平台 ==========
+claude
++code
+gemini
++code
+deepseek
++coder
+qwen
++coder
+devin
+sweep
+
+# ========== 低代码/代码生成 ==========
+v0
++vercel
+cursor
++composer
+bolt
++stackblitz
+
+# ========== 其他科技热点 ==========
 DeepSeek
 梁文锋
 
@@ -8,6 +61,7 @@ gemini
 chatgpt
 openai
 
+# ========== 金融相关 ==========
 金价
 
 黄金
@@ -20,6 +74,7 @@ openai
 美元
 +指数
 
+# ========== 政治/国际 ==========
 特朗普
 
 伊朗
