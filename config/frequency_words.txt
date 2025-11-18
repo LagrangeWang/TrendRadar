@@ -1,55 +1,101 @@
 # ========== AI IDE/编辑器 ==========
 cursor
+Cursor
 windsurf
-cline
-aider
-supermaven
-void
-augment
-replit
-bolt.new
-lovable
-v0
-zed
-pulsar
-lapcelapce
-verdent
-
-# ========== AI CLI/终端工具 ==========
-github copilot
-+cli
-warp
+Windsurf
 trae
-fig
+Trae
 kiro
+Kiro
+marscode
+MarsCode
+replit
+Replit
+bolt.new
+Bolt.new
+zed
+Zed
+pulsar
+Pulsar
+lapce
+Lapce
+verdent
+Verdent
+qoder
+Qoder
+catpaw
+Catpaw
 
-# ========== AI 代码补全/Agent ==========
-codeium
-tabnine
-qodo
-continue
-codegpt
+# ========== AI 代码补全插件 ==========
+GitHub Copilot
+github copilot
+Copilot
 copilot
+Codeium
+codeium
+Tabnine
+tabnine
+Supermaven
+supermaven
+Qodo
+qodo
+Continue
+continue
+CodeGeeX
+codegeex
+Tongyi Lingma
+tongyi lingma
+Comate
+comate
+CodeBuddy
+codebuddy
+iflycode
+pangu coder
 
-# ========== AI 编程助手/平台 ==========
-claude
-+code
-gemini
-+code
-deepseek
-+coder
-qwen
-+coder
+# ========== AI 编程助手平台 ==========
+Devin
 devin
+Sweep
 sweep
+Aider
+aider
+Void
+void
+Augment
+augment
+Lovable
+lovable
+MarsCode
+marscode
+CodeFlicker
+codeflicker
+Kwaicoder
+kwaicoder
+AI 编程助手
+AI 代码助手
 
-# ========== 低代码/代码生成 ==========
+# ========== AI CLI / 终端工具 ==========
+Warp
+warp
+Fig
+fig
+Kiro
+kiro
+CLI
+cli
+AI 终端
+AI 命令行
+命令行助手
+
+# ========== 低代码平台 ==========
 v0
-+vercel
-cursor
-+composer
+V0
+Vercel
+vercel
 bolt
-+stackblitz
+Bolt
+stackblitz
+StackBlitz
 
 # ========== 其他科技热点 ==========
 DeepSeek
@@ -79,3 +125,4 @@ openai
 特朗普
 
 伊朗
+
