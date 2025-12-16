@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T09:54:41.199872+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2025-12-16T16:35:35.453878+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========== 政治/国际 ========== 特朗普 伊朗",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -47,9 +47,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
+          "url": "https://wallstreetcn.com/articles/3761439",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 16时35分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：企业在一定程度上消耗掉（总统特朗普挑起）关税之前的库存。",
@@ -74,15 +86,15 @@
           "time_info": "00时36分"
         },
         {
-          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
-          "url": "https://wallstreetcn.com/articles/3761439",
-          "source": "华尔街见闻",
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "16时35分"
         },
         {
           "title": "美国官员：今晚与泽连斯基的晚宴将讨论下一步行动，特朗普将加入通话。",
@@ -113,7 +125,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
