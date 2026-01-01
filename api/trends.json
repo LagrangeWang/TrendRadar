@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T00:31:20.565860+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-01T10:06:06.662418+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========== 其他科技热点 ========== DeepSeek 梁文锋 谷歌 google gemini chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌旗下自动驾驶公司Waymo：正为明年在伦敦的商业发布做准备。",
@@ -17,13 +17,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
+          "url": "https://wallstreetcn.com/articles/3762366",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
         }
       ]
     },
     {
       "keyword_group": "# ========== 政治/国际 ========== 特朗普 伊朗",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
+          "url": "https://news.ifeng.com/c/8pYFJNVmi6C",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
         {
           "title": "非洲股市收盘播报｜周三（12月31日），南非富时/JSE非洲领先40可交易指数收跌0.69%，报10.8万点，大致持稳于12月24日所创历史最高位（接近11.0万点）附近。 南非股市2025年累计上涨大约46.35%，虽然屡屡遭到特朗普政府的威胁，但月线上仍然全年走高、连续四个季度走强，并连续三年上涨。",
           "url": "https://wallstreetcn.com/livenews/3029419",
