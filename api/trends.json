@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-01-20T00:34:56.447773+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-20T09:59:21.482612+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========== 政治/国际 ========== 特朗普 伊朗",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "会武力夺岛？特朗普：无可奉告",
+          "url": "https://news.ifeng.com/c/8q3HDvDloum",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
+          "url": "https://www.cls.cn/detail/2262874",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "特朗普写了一封信，杀气腾腾，槽点满满",
+          "url": "https://news.ifeng.com/c/8q3qn0KjEks",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
         {
           "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
           "url": "https://news.ifeng.com/c/8q2mrUjZSWs",
@@ -17,6 +50,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
+          "url": "https://wallstreetcn.com/articles/3763623",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 09时59分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -89,22 +134,34 @@
           "url": "https://news.ifeng.com/c/8q2yFHRzsKV",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 09时59分]"
         },
         {
-          "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
-          "url": "https://wallstreetcn.com/articles/3763623",
+          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
+          "url": "https://wallstreetcn.com/articles/3763591",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
+          "url": "https://www.zhihu.com/question/1995879633401374340",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：如果伊朗攻击以色列，我们将予以强有力回击。",
@@ -231,8 +288,19 @@
     },
     {
       "keyword_group": "# ========== 其他科技热点 ========== DeepSeek 梁文锋 谷歌 google gemini chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
+          "url": "https://www.cls.cn/detail/2262848",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3039842",
