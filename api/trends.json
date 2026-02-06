@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-02-06T00:55:31.153904+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-06T10:25:53.928973+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========== 政治/国际 ========== 特朗普 伊朗",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
+          "url": "https://news.ifeng.com/c/8qW59pknpCi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
+          "url": "https://news.ifeng.com/c/8qW6McngHpX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
@@ -17,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "外媒：电费上涨正在让特朗普付出政治代价",
+          "url": "https://flash.jin10.com/detail/20260206101301722800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "美国财长贝森特：伊朗领导层疯狂地往外转移资金。",
@@ -61,6 +94,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "美政府发布安全警告 敦促美国公民尽快离开伊朗",
+          "url": "https://flash.jin10.com/detail/20260206100916664800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "美国财长贝森特：我在2024年（拜登任期内）看到了通胀。 （特朗普挑起的）关税造成美元走强。",
@@ -132,7 +187,7 @@
     },
     {
       "keyword_group": "# ========== 其他科技热点 ========== DeepSeek 梁文锋 谷歌 google gemini chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -150,11 +205,12 @@
           "url": "https://www.cls.cn/detail/2282073",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 10时25分]"
         },
         {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
@@ -166,6 +222,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：今天晚些时候，Codex用户将迎来重大折扣。你只需去创造事物即可。",
