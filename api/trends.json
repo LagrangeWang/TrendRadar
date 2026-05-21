@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-05-21T02:21:34.668529+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-21T12:02:22.405570+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========== 政治/国际 ========== 特朗普 伊朗",
-      "match_count": 20,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
+          "url": "https://wallstreetcn.com/articles/3772754",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "特朗普，“退了一万亿”",
+          "url": "https://news.ifeng.com/c/8tIcotw8V5W",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
         {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
           "url": "https://news.ifeng.com/c/8tHoD8gEXdY",
@@ -48,8 +81,63 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时21分"
+          "appearance_count": 3,
+          "time_info": "[02时21分 ~ 12时02分]"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "特朗普：不要中国学生，那可太冒犯了",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 83 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040565738411221984",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2377369",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
         },
         {
           "title": "伊朗东南部发生针对安全人员袭击事件，致死一人",
@@ -129,6 +217,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "伊朗外交部称“正在评估”美方最新谈判意见",
+          "url": "https://flash.jin10.com/detail/20260521111006698800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "美军周三登检一艘伊朗油轮，称其“违反封锁”",
           "url": "https://flash.jin10.com/detail/20260521014431833800",
           "source": "金十数据",
@@ -206,6 +305,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "分析师指出，受伊朗战争导致石油出口受阻的影响，沙特被迫关闭了部分油田，进而导致天然气供应中断，预计今年夏季，沙特将因此燃烧更多进口燃料油用于发电。",
+          "url": "https://flash.jin10.com/detail/20260521110018707800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "伊朗外交部发言人：伊朗准备与其他沿海国家合作，制定安全航运交通协议。",
           "url": "https://flash.jin10.com/detail/20260521011425588800",
           "source": "金十数据",
@@ -231,8 +341,19 @@
     },
     {
       "keyword_group": "# ========== 其他科技热点 ========== DeepSeek 梁文锋 谷歌 google gemini chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "OpenAI最快本周秘密递表，不想让华尔街的钱全流向马斯克？",
+          "url": "https://flash.jin10.com/detail/20260521113142876800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
         {
           "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
           "url": "https://www.zhihu.com/question/2040450519303288568",
