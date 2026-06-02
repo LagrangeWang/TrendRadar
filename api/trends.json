@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T12:16:49.632228+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-06-02T20:06:51.372142+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========== 政治/国际 ========== 特朗普 伊朗",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "抗议以军扩大在黎行动，伊朗据称将暂停与美沟通，计划彻底封锁霍尔木兹海峡",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 12时16分]"
+          "appearance_count": 4,
+          "time_info": "[04时19分 ~ 20时06分]"
         },
         {
           "title": "伊朗暂停与美国对话！“霍尔木兹、曼德海峡双封锁”重新摆上台面",
@@ -53,15 +54,48 @@
           "time_info": "[04时19分 ~ 04时20分]"
         },
         {
+          "title": "美伊谈判将崩盘？专家：伊朗手握多个反制筹码",
+          "url": "https://news.ifeng.com/c/8tcZUHIhU1k",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 20时06分]"
+        },
+        {
           "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
           "url": "https://www.cls.cn/detail/2387748",
           "source": "财联社热门",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        },
+        {
+          "title": "特朗普再发5张照片回味中国",
+          "url": "https://news.ifeng.com/c/8td32CwSj89",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
+          "title": "伊朗叫停与美谈判！霍尔木兹通航仍受限！国际现货黄金修复预期加强？金十卢教练直播中，立即观看！",
+          "url": "https://flash.jin10.com/detail/20260602195219951800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
         },
         {
           "title": "伊朗向以色列发出最新警告",
@@ -70,7 +104,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -81,20 +115,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
         {
-          "title": "美伊谈判将崩盘？专家：伊朗手握多个反制筹码",
-          "url": "https://news.ifeng.com/c/8tcZUHIhU1k",
-          "source": "凤凰网",
+          "title": "伊朗称过去24小时24艘船通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3113059",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "20时06分"
         },
         {
           "title": "一波三折！伊朗叫停对话后，特朗普最新表态：美伊或一周内达成协议",
@@ -103,7 +137,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -114,7 +148,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -125,9 +159,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        },
+        {
+          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
+          "url": "https://wallstreetcn.com/articles/3773609",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 20时06分]"
+        },
+        {
+          "title": "暂停同美对话、计划封锁海峡，伊朗要求以色列撤军",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33285729",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 20时06分]"
         },
         {
           "title": "伊朗：彻底封锁霍尔木兹海峡",
@@ -264,24 +322,13 @@
           "time_info": "[04时19分 ~ 04时20分]"
         },
         {
-          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
-          "url": "https://wallstreetcn.com/articles/3773609",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
           "title": "特朗普称与伊朗一周内达成协议",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8E%E4%BC%8A%E6%9C%97%E4%B8%80%E5%91%A8%E5%86%85%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE",
           "source": "bilibili 热搜",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -303,7 +350,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -314,7 +361,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -325,7 +372,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -369,7 +416,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -385,17 +432,6 @@
           "time_info": "04时20分"
         },
         {
-          "title": "暂停同美对话、计划封锁海峡，伊朗要求以色列撤军",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33285729",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
           "title": "以色列国防部长卡茨：特朗普采纳了我们确立的观点，即向我们的定居点开火就意味着贝鲁特将遭到轰炸。这就是他那番话的含义。",
           "url": "https://flash.jin10.com/detail/20260602030602833800",
           "source": "金十数据",
@@ -407,13 +443,35 @@
           "time_info": "04时20分"
         },
         {
+          "title": "据沙特阿拉伯阿拉比亚电视台：一名西方外交消息人士表示，伊朗不应在黎巴嫩问题上拥有最终决定权。",
+          "url": "https://flash.jin10.com/detail/20260602193752554800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
+          "title": "伊朗武装力量表示已为冲突作好准备 正处于最高战备水平",
+          "url": "https://wallstreetcn.com/livenews/3113028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
           "title": "美媒称特朗普怒斥以色列总理",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%96%A5%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -432,18 +490,30 @@
     },
     {
       "keyword_group": "# ========== 其他科技热点 ========== DeepSeek 梁文锋 谷歌 google gemini chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
           "url": "https://wallstreetcn.com/articles/3773607",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 20时06分]"
+        },
+        {
+          "title": "DeepSeek降价",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "20时06分"
         },
         {
           "title": "Anthropic已提交IPO申请 OpenAI创始人称不争首家“头衔”",
@@ -510,6 +580,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========== AI CLI / 终端工具 ========== Warp warp Fig fig Kiro kiro CLI cli AI 终端 AI 命令行 命令行助手",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：阿布扎比港口以超过30亿阿联酋迪拉姆收购巴西码头运营商CLI。",
+          "url": "https://flash.jin10.com/detail/20260602194041754800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
         }
       ]
     }
