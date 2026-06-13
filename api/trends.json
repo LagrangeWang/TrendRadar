@@ -1,637 +1,430 @@
 {
-  "generated_at": "2026-06-13T18:33:00.905141+08:00",
-  "total_titles_processed": 767,
+  "generated_at": "2026-06-14T01:26:25.418421+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========== 政治/国际 ========== 特朗普 伊朗",
-      "match_count": 54,
+      "match_count": 35,
       "titles": [
         {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 02时10分]"
-        },
-        {
-          "title": "伊朗发布“头骨世界杯”海报",
-          "url": "https://www.toutiao.com/trending/7650111233802731539/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 02时10分]"
-        },
-        {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 02时10分]"
-        },
-        {
-          "title": "美伊达成一致，伊朗外长：第一阶段将以远程电子方式签署",
-          "url": "https://news.ifeng.com/c/8tuxeZuZndm",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
-        },
-        {
-          "title": "霍尔木兹将重开？伊朗曝光14点协议草案",
-          "url": "https://news.ifeng.com/c/8tuse7CSv3h",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
-        },
-        {
-          "title": "以防长暗示未来以色列或再动武阻止伊朗拥核",
-          "url": "https://wallstreetcn.com/livenews/3119033",
-          "source": "华尔街见闻-快讯",
+          "title": "亚马逊CEO向美官员汇报后 特朗普政府收紧Anthropic模型使用限制",
+          "url": "https://flash.jin10.com/detail/20260614010232105800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "01时26分"
         },
         {
-          "title": "美军称伊朗发射多架单向攻击无人机",
-          "url": "https://wallstreetcn.com/livenews/3119115",
+          "title": "唐宁街10号（英国首相府）：英国首相斯塔默表示支持美国总统特朗普结束与伊朗冲突的努力。",
+          "url": "https://flash.jin10.com/detail/20260614005805979800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "媒体：伊朗代表团将于14日访问巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3119173",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            29
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 18时33分]"
+          "appearance_count": 1,
+          "time_info": "01时26分"
         },
         {
-          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
-          "source": "澎湃新闻",
+          "title": "唐宁街10号（英国首相府）：英国首相斯塔默今天下午与美国总统唐纳德·特朗普通了电话。",
+          "url": "https://flash.jin10.com/detail/20260614005746679800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            10
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时09分 ~ 12时03分]"
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "伊朗已故最高领袖哈梅内伊葬礼将于7月举行",
+          "url": "https://wallstreetcn.com/livenews/3119172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
         },
         {
           "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
           "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            12
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 18时33分]"
+          "appearance_count": 1,
+          "time_info": "01时26分"
         },
         {
-          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
-          "url": "https://www.cls.cn/detail/2398839",
-          "source": "财联社热门",
+          "title": "特朗普社交媒体发文：明天将签署协议，霍尔木兹海峡即刻开放",
+          "url": "https://flash.jin10.com/detail/20260614005348498800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            12
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 18时33分]"
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
+          "url": "https://wallstreetcn.com/livenews/3119171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
         },
         {
           "title": "多名伊朗国足代表团成员签证被拒，美国回应",
           "url": "https://news.ifeng.com/c/8tvGP2lQey4",
           "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
+          "appearance_count": 1,
+          "time_info": "01时26分"
         },
         {
-          "title": "世界杯伊朗队训练场旁发现腐尸",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E9%98%9F%E8%AE%AD%E7%BB%83%E5%9C%BA%E6%97%81%E5%8F%91%E7%8E%B0%E8%85%90%E5%B0%B8",
-          "source": "百度热搜",
+          "title": "美国总统特朗普就伊朗问题表示：我们与伊朗的关系比前任政府时期更加不同、更加良好。",
+          "url": "https://flash.jin10.com/detail/20260614005039363800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
+          "appearance_count": 1,
+          "time_info": "01时26分"
         },
         {
-          "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
-          "url": "https://wallstreetcn.com/articles/3774522",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
-        },
-        {
-          "title": "“美伊协议即将达成”叙事回归，但伊朗拒绝放弃霍尔木兹海峡“筹码”",
-          "url": "https://wallstreetcn.com/articles/3774540",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
-        },
-        {
-          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
-          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
+          "title": "特朗普姓名被从肯尼迪中心外墙移除",
+          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
           "source": "凤凰网",
           "ranks": [
-            11
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 02时10分]"
+          "appearance_count": 1,
+          "time_info": "01时26分"
         },
         {
-          "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
-          "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
-          "source": "凤凰网",
+          "title": "美国总统特朗普就伊朗问题表示：希望这一进程能快速、简单、顺利地完成；如果不行，我们还有终极备选方案。",
+          "url": "https://flash.jin10.com/detail/20260614004838021800",
+          "source": "金十数据",
           "ranks": [
-            11
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
+          "appearance_count": 1,
+          "time_info": "01时26分"
         },
         {
-          "title": "美以袭击伊朗进入第 105 天，当前局势如何？有哪些值得关注的信息？",
-          "url": "https://www.zhihu.com/question/2048669431962625669",
-          "source": "知乎",
+          "title": "美国总统特朗普就伊朗问题表示：在适当的时候，当一切平静时，我们将进入并获取核尘埃。",
+          "url": "https://flash.jin10.com/detail/20260614004827925800",
+          "source": "金十数据",
           "ranks": [
-            14
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 02时10分]"
+          "appearance_count": 1,
+          "time_info": "01时26分"
         },
         {
           "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
           "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
           "source": "澎湃新闻",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
-        },
-        {
-          "title": "伊朗国足被美国卡脖子后近况曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%9B%BD%E8%B6%B3%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%8D%A1%E8%84%96%E5%AD%90%E5%90%8E%E8%BF%91%E5%86%B5%E6%9B%9D%E5%85%89%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
-        },
-        {
-          "title": "伊朗美国已就协议文本达成一致",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%BE%8E%E5%9B%BD%E5%B7%B2%E5%B0%B1%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC%E8%BE%BE%E6%88%90%E4%B8%80%E8%87%B4%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外交部发言人表示，双方已就谈判中的大部分问题达成共识，目前我们正处于内部决策程序的最后阶段。",
-          "url": "https://flash.jin10.com/detail/20260613014145079800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "01时26分"
         },
         {
-          "title": "据伊朗媒体Fars News：伊朗外长被指控为迎合特朗普路线而损害伊朗谈判立场。",
-          "url": "https://flash.jin10.com/detail/20260613104207547800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "巴基斯坦外长：与瑞士外长一致希望美国与伊朗的努力能促进地区和平与稳定。",
-          "url": "https://flash.jin10.com/detail/20260613173510600800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "美国官员宣称，伊朗将承诺永远放弃核计划",
-          "url": "https://wallstreetcn.com/livenews/3119024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
-          "title": "黎巴嫩外长否认美伊协议中包含了黎巴嫩停火条款，并强调需要将黎巴嫩事务与伊朗事务分开。",
-          "url": "https://flash.jin10.com/detail/20260613173416307800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
-          "url": "https://wallstreetcn.com/livenews/3119112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "美国政府高级官员：伊朗的民用核设施可以被接受。",
-          "url": "https://flash.jin10.com/detail/20260613013928237800",
+          "title": "美国总统特朗普就伊朗问题表示：协议计划于明天签署。协议签署后，霍尔木兹海峡将立即对所有人开放。",
+          "url": "https://flash.jin10.com/detail/20260614004739584800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "01时26分"
         },
         {
-          "title": "黎巴嫩外长：即使伊朗政权没有垮台，黎巴嫩也有能力终结真主党的武器问题。",
-          "url": "https://flash.jin10.com/detail/20260613173245745800",
-          "source": "金十数据",
+          "title": "伊朗称伊美谅解备忘录不会在明天签署，当前重点是止战，此前巴总理称协议或在 24 小时内敲定，透露哪些信息？",
+          "url": "https://www.zhihu.com/question/2049209357032764040",
+          "source": "知乎",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "美国官员：相信盟友会支持与伊朗的这项协议。 相信以色列会支持。 总统特朗普6月11日与以色列总理内塔尼亚胡通话。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3119021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "01时26分"
         },
         {
-          "title": "伊朗外交部发言人：在伊朗方面作出最终决定之前，我无法对谅解备忘录的签署时间和地点发表评论。",
-          "url": "https://flash.jin10.com/detail/20260613013647327800",
-          "source": "金十数据",
+          "title": "伊朗多家银行出现技术故障 正开展修复工作",
+          "url": "https://wallstreetcn.com/livenews/3119163",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "01时26分"
         },
         {
-          "title": "美中央司令部：伊朗发射了多架单向攻击无人机，试图袭击通过霍尔木兹海峡的商船。美军在数小时内击落了所有这些无人机，海峡通航未受影响。这条国际贸易通道仍然保持开放。",
-          "url": "https://flash.jin10.com/detail/20260613093322843800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "美国政府高级官员：美国与伊朗建立了一个增进信任的机制，以促成协议的达成。",
-          "url": "https://flash.jin10.com/detail/20260613013443491800",
+          "title": "据沙特媒体哈达斯（alhadath）援引消息人士报道，伊朗的干预导致以黎停火机会受阻。",
+          "url": "https://flash.jin10.com/detail/20260614001723390800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "01时26分"
         },
         {
-          "title": "据伊朗国家电视台：伊朗外交部发言人表示，无法确认媒体所披露的谅解备忘录中的任何细节。",
-          "url": "https://flash.jin10.com/detail/20260613013243584800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
-          "title": "报道：美方认为，伊朗协议签署的可能性为80%-85%",
-          "url": "https://wallstreetcn.com/livenews/3119017",
+          "title": "伊朗外交部：伊美谅解备忘录不会在明天签署",
+          "url": "https://wallstreetcn.com/livenews/3119160",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "01时26分"
         },
         {
-          "title": "特朗普：美军打死“阿拉瓜火车”组织首领尼尼奥·格雷罗",
-          "url": "https://flash.jin10.com/detail/20260613092918763800",
+          "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
+          "url": "https://flash.jin10.com/detail/20260614001329812800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "01时26分"
         },
         {
-          "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
-          "url": "https://wallstreetcn.com/livenews/3119102",
+          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
+          "url": "https://wallstreetcn.com/livenews/3119159",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "01时26分"
         },
         {
-          "title": "美国政府高级官员：伊朗最高领袖据称对我们在谈判中的进展感到满意。",
-          "url": "https://flash.jin10.com/detail/20260613013020877800",
-          "source": "金十数据",
+          "title": "美媒细数特朗普曾39次说与伊朗谈好",
+          "url": "https://wallstreetcn.com/livenews/3119158",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "01时26分"
         },
         {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：一名黎巴嫩官方消息人士表示，与以色列代表的第五轮谈判将于6月22日在华盛顿举行。",
-          "url": "https://flash.jin10.com/detail/20260613091201134800",
+          "title": "特朗普将在G7峰会期间会晤中东伙伴",
+          "url": "https://flash.jin10.com/detail/20260614000131278800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "01时26分"
         },
         {
-          "title": "据伊朗国家电视台：伊朗方面表示，伊朗决策机构目前正在就谅解备忘录召开会议进行讨论。",
-          "url": "https://flash.jin10.com/detail/20260613012930572800",
+          "title": "据伊朗法尔斯通讯社：伊朗外交部发言人表示，伊朗将必须对在霍尔木兹海峡提供的服务收取费用。",
+          "url": "https://flash.jin10.com/detail/20260613235931570800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "01时26分"
         },
         {
-          "title": "美国政府高级官员：伊朗承诺永不发展核武器。",
-          "url": "https://flash.jin10.com/detail/20260613012815818800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
-          "title": "美国总统特朗普：此次行动是在与我们委内瑞拉的朋友密切协调下进行的，我们与委内瑞拉方面合作得非常顺利。",
-          "url": "https://flash.jin10.com/detail/20260613090715507800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "美国总统特朗普称伊朗外长阿拉格齐在X上发的帖子“非常积极”。 特朗普称他已要求伊朗澄清有关美伊协议的报道。 可能会在周末、或下周一签署协议。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3119010",
+          "title": "伊朗称霍尔木兹收服务费完全合理",
+          "url": "https://wallstreetcn.com/livenews/3119155",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "伊朗已故最高领袖将于7月9日下葬",
+          "url": "https://www.toutiao.com/trending/7650457789692825107/",
+          "source": "今日头条",
+          "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "01时26分"
         },
         {
-          "title": "美国政府高级官员：与伊朗达成的协议包含一项广泛的地区和平协议，涉及黎巴嫩、伊朗以及海湾国家。",
-          "url": "https://flash.jin10.com/detail/20260613012727715800",
+          "title": "据伊朗法尔斯通讯社：伊朗外交部发言人表示，伊朗为保障霍尔木兹海峡安全通航所采取的举措，符合维护国家安全与国际社会共同利益的原则。",
+          "url": "https://flash.jin10.com/detail/20260613234732044800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "01时26分"
         },
         {
-          "title": "美国总统特朗普：在我重返总统办公室之前，乔·拜登向数百万非法犯罪分子敞开了我们的南部边境，任由这支外来军队强暴、残害、谋杀美国公民而完全不受惩罚。",
-          "url": "https://flash.jin10.com/detail/20260613090651699800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "黎巴嫩总理：我们要求黎巴嫩真主党拯救国家，将黎巴嫩的利益置于伊朗的利益之上。",
-          "url": "https://flash.jin10.com/detail/20260613170428114800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "美国政府高级官员：我们有一份伊朗和美国都满意的文本。",
-          "url": "https://flash.jin10.com/detail/20260613012606092800",
+          "title": "据伊朗法尔斯通讯社：伊朗外交部发言人表示，地区内外国基地和军事存在必须结束。",
+          "url": "https://flash.jin10.com/detail/20260613234657838800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "01时26分"
         },
         {
-          "title": "美国总统特朗普：在我的指示下，美国南方司令部发动了一次迅速而致命的打击，成功击毙了“阿拉瓜火车”这一地球上最残暴的恐怖组织之一的臭名昭著的头目“尼诺·格雷罗”（Niño Guerrero）。",
-          "url": "https://flash.jin10.com/detail/20260613090539450800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "美国政府高级官员：这项协议是确保伊朗无法获得核武器的重要第一步。",
-          "url": "https://flash.jin10.com/detail/20260613012555675800",
+          "title": "据伊朗法尔斯通讯社：伊朗外交部发言人表示，释放伊朗被冻结的资金是协议的重要组成部分。",
+          "url": "https://flash.jin10.com/detail/20260613234625047800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "01时26分"
         },
         {
-          "title": "渣打银行驻纽约经济学家Dan Pan：（美国与伊朗达成）协议前景仍存在大量不确定性。 如果我们看到风险情绪因突发新闻而出现回调，我也不会感到惊讶。",
-          "url": "https://wallstreetcn.com/livenews/3119092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "美国政府高级官员：根据协议，美方将取得伊朗浓缩核材料。",
-          "url": "https://flash.jin10.com/detail/20260613012535576800",
+          "title": "法国总统府：马克龙将于周三在凡尔赛宫设晚宴招待美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260613234554532800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "01时26分"
         },
         {
-          "title": "伊朗南部爆炸声因警告性射击",
-          "url": "https://wallstreetcn.com/livenews/3119090",
+          "title": "伊朗司法总监：绝不信任美国",
+          "url": "https://wallstreetcn.com/livenews/3119149",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "01时26分"
         },
         {
-          "title": "美国政府高级官员：一些伊朗强硬派希望破坏协议。",
-          "url": "https://flash.jin10.com/detail/20260613012446661800",
+          "title": "世界杯伊朗队训练场旁发现腐尸",
+          "url": "https://www.toutiao.com/trending/7650639176966144063/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "伊朗外交部：未来一两天内暂无出访计划",
+          "url": "https://flash.jin10.com/detail/20260613230649930800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "01时26分"
         },
         {
-          "title": "美官员称有信心未来几天内与伊朗签署谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3119085",
+          "title": "伊朗已故最高领袖将于7月9日下葬",
+          "url": "https://wallstreetcn.com/livenews/3119145",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "01时26分"
         },
         {
-          "title": "巴基斯坦总理：伊朗和美国已就协议文本达成一致",
-          "url": "https://wallstreetcn.com/livenews/3119001",
+          "title": "伊朗公布已故最高领袖哈梅内伊葬礼安排",
+          "url": "https://wallstreetcn.com/livenews/3119144",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "01时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========== AI 编程助手平台 ========== Devin devin Sweep sweep Aider aider Void void Augment augment Lovable lovable MarsCode marscode CodeFlicker codeflicker Kwaicoder kwaicoder AI 编程助手 AI 代码助手",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "ARCRaiders国服首测PV",
+          "url": "https://search.bilibili.com/all?keyword=ARCRaiders%E5%9B%BD%E6%9C%8D%E9%A6%96%E6%B5%8BPV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
         }
       ]
     },
     {
       "keyword_group": "# ========== 其他科技热点 ========== DeepSeek 梁文锋 谷歌 google gemini chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "我们真的需要又一个 DeepSeek V5 吗？",
-          "url": "https://www.zhihu.com/question/2031303606524186735",
-          "source": "知乎",
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 02时10分]"
-        },
-        {
-          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3119103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "01时26分"
         }
       ]
     }
