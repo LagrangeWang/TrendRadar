@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T11:50:26.422195+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-06-23T19:20:21.147050+08:00",
+  "total_titles_processed": 829,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========== 政治/国际 ========== 特朗普 伊朗",
-      "match_count": 40,
+      "match_count": 52,
       "titles": [
         {
           "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
@@ -76,13 +76,57 @@
           "time_info": "[03时32分 ~ 03时33分]"
         },
         {
+          "title": "阿曼和伊朗发布联合声明称，双方将制定一份有关霍尔木兹海峡费用和服务的协议，他们还将与该地区沿海国家举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260623191414867800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "阿曼与伊朗承诺确保霍尔穆兹海峡安全通行。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3123412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "伊朗公布首批解冻资金用途",
+          "url": "https://news.ifeng.com/c/8uBeuEEfSWu",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "阿曼和伊朗发布联合声明 强调致力于确保海峡的安全通行",
+          "url": "https://flash.jin10.com/detail/20260623191346532800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
           "url": "https://news.ifeng.com/c/8u8tDRAoBuA",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -98,24 +142,25 @@
           "time_info": "03时33分"
         },
         {
+          "title": "比利时0-0伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时32分 ~ 19时20分]"
+        },
+        {
           "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
           "url": "https://www.zhihu.com/question/2050890957483202069",
           "source": "知乎",
           "ranks": [
             18,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时32分 ~ 11时50分]"
-        },
-        {
-          "title": "比利时0-0伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            13
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -166,6 +211,17 @@
           "time_info": "03时33分"
         },
         {
+          "title": "美部长拍特朗普马屁，当场被打脸",
+          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "土耳其总统与伊朗总统通话 聚焦双边合作及伊美谈判",
           "url": "https://flash.jin10.com/detail/20260623023848203800",
           "source": "金十数据",
@@ -177,13 +233,24 @@
           "time_info": "03时33分"
         },
         {
+          "title": "阿曼和伊朗在联合声明称，与霍尔木兹海峡相关的所有安排必须充分尊重它们的主权和主权权利。",
+          "url": "https://flash.jin10.com/detail/20260623191132195800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "伊朗央行行长：没有义务从美国购买农产品",
           "url": "https://wallstreetcn.com/livenews/3123147",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -205,7 +272,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -227,7 +294,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -238,9 +305,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
+        },
+        {
+          "title": "阿曼和伊朗发布联合声明，声明中强调其“在霍尔木兹海峡领海内的主权权利”，双方表示，他们致力于确保霍尔木兹海峡的安全通行。",
+          "url": "https://flash.jin10.com/detail/20260623190848492800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "伊朗将在已故最高领袖葬礼期间实施航班管制",
@@ -252,6 +330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "据Newsweek：特朗普的前盟友、美国知名保守派媒体人塔克·卡尔森宣布与共和党决裂。他的这一举动表明，随着伊朗战争和美以政策成为共和党内部辩论的焦点，右翼内部的分裂正在加深。",
@@ -271,7 +360,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -282,7 +371,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -320,6 +409,17 @@
           "time_info": "03时33分"
         },
         {
+          "title": "伊朗总统抵达巴基斯坦进行正式访问。（伊朗国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3123384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "美国豁免制裁前一周，伊朗出口了3000万桶原油",
           "url": "https://flash.jin10.com/detail/20260623020649965800",
           "source": "金十数据",
@@ -348,7 +448,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -381,7 +481,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -408,13 +508,24 @@
           "time_info": "03时33分"
         },
         {
+          "title": "伊朗代表称美伊技术层级会谈“非常顺利”",
+          "url": "https://wallstreetcn.com/livenews/3123377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "美国放松对伊朗石油制裁，数十年来首允伊朗以美元卖油；美日财长紧急开会，外汇干预警报拉响；全球最大衍生品交易所又故障......后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
           "url": "https://flash.jin10.com/detail/20260623110313753800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -428,6 +539,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "内塔尼亚胡称与伊朗对抗“尚未结束”",
+          "url": "https://wallstreetcn.com/livenews/3123376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "伊朗称将继续追究参与侵略伊朗者的责任",
+          "url": "https://wallstreetcn.com/livenews/3123375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "特朗普称伊朗将同意接受重大武器核查",
@@ -455,7 +588,7 @@
     },
     {
       "keyword_group": "# ========== 其他科技热点 ========== DeepSeek 梁文锋 谷歌 google gemini chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
@@ -469,13 +602,24 @@
           "time_info": "[03时32分 ~ 03时33分]"
         },
         {
+          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2044875348719005741",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
           "url": "https://www.cls.cn/detail/2406155",
           "source": "财联社热门",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
