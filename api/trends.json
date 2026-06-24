@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T01:59:49.319293+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-24T11:51:55.015913+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========== 政治/国际 ========== 特朗普 伊朗",
-      "match_count": 29,
+      "match_count": 40,
       "titles": [
         {
           "title": "路透社/益普索民调显示，仅有23%的美国人认为战后美国与伊朗的关系更加牢固，而35%的人认为关系更加脆弱。",
@@ -96,6 +96,17 @@
           "time_info": "01时59分"
         },
         {
+          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2052882056875603762",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "美部长拍特朗普马屁，当场被打脸",
           "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
           "source": "凤凰网",
@@ -105,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "以色列前总理承认，曾密送星链试图颠覆伊朗政权",
+          "url": "https://news.ifeng.com/c/8uCdaH694Zv",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "被问及卡车司机面临着因AI而失去工作的高风险，美国总统特朗普表示：他们不会失业。现在找工作并不难。我们的就业数据处于历史最高水平。",
@@ -140,6 +162,17 @@
           "time_info": "01时59分"
         },
         {
+          "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
+          "url": "https://news.ifeng.com/c/8uClVTnMwCW",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "特朗普谈伊朗协议：任何批评这笔交易的人都必须接受教育，即使是我的朋友。",
           "url": "https://flash.jin10.com/detail/20260624012804033800",
           "source": "金十数据",
@@ -162,6 +195,28 @@
           "time_info": "01时59分"
         },
         {
+          "title": "美参议院通过涉伊战争权力决议 特朗普遭遇象征性挫败",
+          "url": "https://www.cls.cn/detail/2407367",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "特朗普最新支持率公布",
+          "url": "https://news.ifeng.com/c/8uD1v25JY2x",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "被问及国际原子能机构核查员什么时候会在伊朗现场，美国总统特朗普表示：在合适的时候。不急。",
           "url": "https://flash.jin10.com/detail/20260624012449182800",
           "source": "金十数据",
@@ -171,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "特朗普政府将提供175亿美元贷款 加速10座大型核反应堆部署",
+          "url": "https://www.cls.cn/detail/2407308",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "伊朗方面说没有安排国际原子能机构核查人员的访问，美国总统特朗普对此回应称：“如果他们说的是真的，我现在就取消所有会面。”",
@@ -250,6 +316,17 @@
           "time_info": "01时59分"
         },
         {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "美国总统特朗普：当务之急是确保伊朗永远不会拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260624011808259800",
           "source": "金十数据",
@@ -281,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "因凡蒂诺：特朗普将现场观战决赛",
+          "url": "https://www.toutiao.com/trending/7654381608606187530/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "伊朗总统：伊美谅解备忘录不涉及导弹问题",
@@ -316,6 +404,17 @@
           "time_info": "01时59分"
         },
         {
+          "title": "软银CEO孙正义：希望美国总统特朗普能为中东带来和平。",
+          "url": "https://flash.jin10.com/detail/20260624110419480800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "特朗普政府将提供175亿美元贷款，推动美国大型核电站建设",
           "url": "https://wallstreetcn.com/livenews/3123570",
           "source": "华尔街见闻-快讯",
@@ -325,13 +424,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "美参议院通过决议要求特朗普结束对伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3123726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "软银CEO孙正义：美国总统特朗普强烈希望为美国人带来繁荣。",
+          "url": "https://flash.jin10.com/detail/20260624110313001800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         }
       ]
     },
     {
       "keyword_group": "# ========== 其他科技热点 ========== DeepSeek 梁文锋 谷歌 google gemini chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
+          "url": "https://wallstreetcn.com/articles/3775315",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
           "url": "https://www.zhihu.com/question/2044875348719005741",
