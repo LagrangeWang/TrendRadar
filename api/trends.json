@@ -1,403 +1,292 @@
 {
-  "generated_at": "2026-07-07T19:11:06.882755+08:00",
-  "total_titles_processed": 799,
+  "generated_at": "2026-07-08T02:03:16.705584+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========== 政治/国际 ========== 特朗普 伊朗",
-      "match_count": 29,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 19时11分]"
-        },
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
           "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
           "source": "澎湃新闻",
           "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 02时03分]"
+        },
+        {
+          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时10分 ~ 19时11分]"
+          "time_info": "[02时02分 ~ 02时03分]"
         },
         {
-          "title": "特朗普：就红牌与国际足联主席通话",
-          "url": "https://www.toutiao.com/trending/7659176770528395327/",
-          "source": "今日头条",
+          "title": "特朗普：对北约非常失望",
+          "url": "https://news.ifeng.com/c/8uZl0nkCE3Q",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 02时03分]"
+        },
+        {
+          "title": "卡塔尔外交部：要求伊朗立即停止任何威胁地区安全的行为，并停止危害全球航运和能源供应的安全。",
+          "url": "https://flash.jin10.com/detail/20260708013936947800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时13分"
+          "time_info": "02时03分"
         },
         {
-          "title": "“前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多",
-          "url": "https://news.ifeng.com/c/8uYByScLdvD",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "特朗普一通电话后，国际足联“破例”了",
-          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "经济学家：中期选举后特朗普或加大海外军事行动，市场需警惕",
-          "url": "https://flash.jin10.com/detail/20260707112604602800",
+          "title": "卡塔尔外交部：坚决拒绝伊朗的袭击行为，该行为损害国际航行安全。",
+          "url": "https://flash.jin10.com/detail/20260708013919396800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "02时03分"
         },
         {
-          "title": "美国众议院议长约翰逊：随着民主党无视、否认甚至助长欺诈，共和党正在与特朗普总统合作，根除腐败蓝州中的浪费、欺诈和滥用，确保纳税人的钱不被滥用。",
-          "url": "https://flash.jin10.com/detail/20260707014648139800",
+          "title": "卡塔尔外交部召见伊朗副大使，抗议在霍尔木兹海峡针对卡塔尔液化天然气油轮的行为。",
+          "url": "https://flash.jin10.com/detail/20260708013722779800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时13分"
+          "time_info": "02时03分"
         },
         {
-          "title": "现场：伊朗民众向灵车抛投鲜花、头巾",
-          "url": "https://news.ifeng.com/c/8uXrYG1lG4D",
+          "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
+          "url": "https://news.ifeng.com/c/8uZavoCll5c",
           "source": "凤凰网",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "特朗普再回应红牌事件，称若比利时赢了美国就是有黑幕",
-          "url": "https://news.ifeng.com/c/8uYHhG4pLt3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "消息人士：内塔尼亚胡要求特朗普阻止美国向土耳其出售可提升其空军实力的武器。",
-          "url": "https://flash.jin10.com/detail/20260707014319420800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "特朗普称不知道红牌还要禁赛",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%BA%A2%E7%89%8C%E8%BF%98%E8%A6%81%E7%A6%81%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 19时11分]"
-        },
-        {
-          "title": "送葬与袭船同步发生，伊朗在关键节点对外释放两大信号",
-          "url": "https://news.ifeng.com/c/8uZB2jJTHNt",
-          "source": "凤凰网",
-          "ranks": [
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时10分 ~ 19时11分]"
-        },
-        {
-          "title": "“每座发电厂都将不复存在！”特朗普再发出威胁",
-          "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 19时11分]"
+          "time_info": "[02时02分 ~ 02时03分]"
         },
         {
           "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
           "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
           "source": "澎湃新闻",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 19时11分]"
-        },
-        {
-          "title": "卢卡库跳“特朗普之舞”贴脸嘲讽",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E5%BA%93%E8%B7%B3%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%8B%E8%88%9E%E2%80%9D%E8%B4%B4%E8%84%B8%E5%98%B2%E8%AE%BD",
-          "source": "百度热搜",
-          "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时10分 ~ 19时11分]"
+          "time_info": "[02时02分 ~ 02时03分]"
         },
         {
-          "title": "伊朗最高领袖发布任免令",
-          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "特朗普插手世界杯红牌",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%92%E6%89%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BA%A2%E7%89%8C%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "如何评价国际足联主席称确实接到了特朗普电话，但「独立裁决」巴洛贡红牌禁赛延后处罚案件？真的毫无影响吗？",
-          "url": "https://www.zhihu.com/question/2057732608214004902",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "SpaceX“二把手”官宣向“特朗普账户”捐赠个人股票 总价值超3亿美元",
-          "url": "https://www.cls.cn/detail/2418537",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美国加州州长纽森：任何协助特朗普干预加州选举或计票的人都将面临刑事起诉。",
-          "url": "https://flash.jin10.com/detail/20260707012328575800",
+          "title": "土耳其官员：伊朗可以通过谈判确保自身安全和经济利益，战争不会让任何一方受益。",
+          "url": "https://flash.jin10.com/detail/20260708013301275800",
           "source": "金十数据",
           "ranks": [
-            11
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时13分"
+          "time_info": "02时03分"
         },
         {
-          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
-          "url": "https://www.cls.cn/detail/2417917",
-          "source": "财联社热门",
+          "title": "土耳其官员：埃尔多安与特朗普讨论伊朗问题，呼吁解决战争并重开霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260708013258964800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：无论是否达成协议，我都绝不会允许伊朗拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260708013125197800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "约旦外交部：我们谴责伊朗针对一艘途经霍尔木兹海峡的卡塔尔油轮发动袭击。",
+          "url": "https://flash.jin10.com/detail/20260708012453653800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时13分"
+          "time_info": "02时03分"
         },
         {
-          "title": "特朗普称不知道红牌还要禁赛",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%BA%A2%E7%89%8C%E8%BF%98%E8%A6%81%E7%A6%81%E8%B5%9B%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "阿联酋外交部：阿联酋强烈谴责伊朗袭击卡塔尔油轮。",
+          "url": "https://flash.jin10.com/detail/20260708012221289800",
+          "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "02时03分"
         },
         {
-          "title": "美国总统特朗普：我们很尊重澳大利亚。 赞赏澳洲的退休（金）系统。",
-          "url": "https://wallstreetcn.com/livenews/3129494",
+          "title": "内塔尼亚胡：与特朗普在伊朗问题上立场一致",
+          "url": "https://flash.jin10.com/detail/20260708011811943800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "特朗普再次声称格陵兰岛“应该由美国控制”",
+          "url": "https://wallstreetcn.com/livenews/3130112",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "市场消息：英国召见伊朗驻英临时代办，就伊朗国际电视台记者遇袭案交涉。",
+          "url": "https://flash.jin10.com/detail/20260708010220924800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时13分"
+          "time_info": "02时03分"
         },
         {
-          "title": "特朗普：我可以“不到一下午”摧毁伊朗所有电厂",
-          "url": "https://flash.jin10.com/detail/20260707005154588800",
-          "source": "金十数据",
+          "title": "伊朗向联合国提交文件 主张有权控制霍尔木兹海峡“部分”水域",
+          "url": "https://wallstreetcn.com/livenews/3130097",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时13分"
+          "time_info": "02时03分"
         },
         {
-          "title": "美国总统特朗普在“特朗普账户”餐会上宣称：黑石集团、贝莱德集团、高盛都来了。",
-          "url": "https://wallstreetcn.com/livenews/3129489",
+          "title": "布伦特原油日内涨幅达3.0%，报74.15美元/桶。此前，特朗普政府将今明两年布油价格预期下调超10美元，上调今年美国石油产量预期。",
+          "url": "https://wallstreetcn.com/livenews/3130095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "特朗普政府将今明两年布油价格预期下调超10美元，上调今年美国石油产量预期",
+          "url": "https://wallstreetcn.com/livenews/3130093",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时13分"
+          "time_info": "02时03分"
         },
         {
-          "title": "“特朗普账户”正式推出 可操作性引质疑",
-          "url": "https://wallstreetcn.com/livenews/3129896",
+          "title": "特朗普称将取消对土耳其制裁",
+          "url": "https://wallstreetcn.com/livenews/3130089",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "美国总统特朗普赞赏股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3129485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "美国总统特朗普：我刚刚得知，美国零售商沃尔玛将在我政府的要求下大幅降价，以庆祝我们伟大国家的250周年生日。",
-          "url": "https://flash.jin10.com/detail/20260707105410926800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "欧洲央行管委Wunsch：似乎伊朗冲击已经消退，我们尚未看到太多的第二轮（通胀）效应。 我们可能还得（围绕货币政策）采取更多行动，但形势并不要求央行大幅紧缩。 不排除央行再次（采取加息）行动，但不要让我们等太久。",
-          "url": "https://wallstreetcn.com/livenews/3129484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "time_info": "02时03分"
         }
       ]
     },
     {
       "keyword_group": "# ========== 其他科技热点 ========== DeepSeek 梁文锋 谷歌 google gemini chatgpt openai",
-      "match_count": 6,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 02时03分]"
+        },
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
           "url": "https://www.zhihu.com/question/2057753624717911009",
           "source": "知乎",
           "ranks": [
-            1
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时10分 ~ 19时11分]"
+          "time_info": "[02时02分 ~ 02时03分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
           "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
           "source": "凤凰网",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时10分 ~ 19时11分]"
+          "time_info": "[02时02分 ~ 02时03分]"
         },
         {
-          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
-          "source": "澎湃新闻",
+          "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
+          "url": "https://wallstreetcn.com/livenews/3130107",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            14
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 19时11分]"
-        },
-        {
-          "title": "前华为天才少年吐槽DeepSeek面试",
-          "url": "https://www.baidu.com/s?wd=%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 19时11分]"
-        },
-        {
-          "title": "前华为天才少年吐槽DeepSeek面试",
-          "url": "https://www.toutiao.com/trending/7658530038409969718/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 19时11分]"
-        },
-        {
-          "title": "前华为天才少年吐槽DeepSeek面试",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "02时03分"
+        },
+        {
+          "title": "微软在部分应用中以自研AI模型替代OpenAI和Anthropic",
+          "url": "https://wallstreetcn.com/livenews/3130102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
         }
       ]
     }
