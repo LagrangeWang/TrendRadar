@@ -1,376 +1,221 @@
 {
-  "generated_at": "2026-07-10T18:57:28.508728+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2026-07-11T01:49:46.189573+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========== 政治/国际 ========== 特朗普 伊朗",
-      "match_count": 23,
+      "match_count": 16,
       "titles": [
         {
-          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
-          "url": "https://wallstreetcn.com/articles/3776602",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 18时57分]"
-        },
-        {
-          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
-          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 18时57分]"
-        },
-        {
-          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
-          "url": "https://wallstreetcn.com/articles/3776487",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
+          "title": "伊朗首席谈判代表卡利巴夫表示，近期的冲突绝不会以伊朗的投降而告终。 如果美方背弃谅解备忘录，德黑兰已准备好进行“全面防御”。",
+          "url": "https://wallstreetcn.com/livenews/3132201",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "01时49分"
         },
         {
-          "title": "美军称再次对伊朗发起打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "伊朗：已发射10枚弹道导弹，打击驻约旦美军基地",
-          "url": "https://news.ifeng.com/c/8udgruF8e0q",
+          "title": "内塔尼亚胡：过去一年，我们杀死了伊朗20名核专家",
+          "url": "https://news.ifeng.com/c/8ueCFBdRP1G",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时34分"
+          "time_info": "01时49分"
         },
         {
-          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
-          "url": "https://news.ifeng.com/c/8udg4food2U",
-          "source": "凤凰网",
+          "title": "市场消息：四名美国参议员称，已与特朗普政府达成协议，将推进对俄制裁法案。",
+          "url": "https://flash.jin10.com/detail/20260711011248280800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 18时57分]"
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
+          "url": "https://news.ifeng.com/c/8uec7dkVT5P",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
         },
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
           "url": "https://news.ifeng.com/c/8udchHV60GP",
           "source": "凤凰网",
           "ranks": [
-            6,
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 18时57分]"
-        },
-        {
-          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 11时34分]"
-        },
-        {
-          "title": "伊朗发射巡航导弹袭击美国舰艇",
-          "url": "https://www.toutiao.com/trending/7659924718308327474/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 11时34分]"
-        },
-        {
-          "title": "特朗普“把自己困住了”，陷入两难",
-          "url": "https://news.ifeng.com/c/8uddEUs34xh",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时57分"
+          "time_info": "01时49分"
         },
         {
-          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
-          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
-          "source": "凤凰网",
+          "title": "伊朗议长放话：不会投降，若美方“背信”将全面防御",
+          "url": "https://flash.jin10.com/detail/20260711010206010800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "01时49分"
         },
         {
-          "title": "政治新星、“民主党版特朗普”，涉性侵丑闻“塌房”退选",
-          "url": "https://news.ifeng.com/c/8ucxOCMpd4c",
-          "source": "凤凰网",
+          "title": "伊朗议会议长卡利巴夫：若美方背弃谅解备忘录，德黑兰已准备好进行“全面防御”。",
+          "url": "https://flash.jin10.com/detail/20260711005626341800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "01时49分"
         },
         {
-          "title": "以总理：“不允许”伊朗拥核，拟大幅追加国防预算",
-          "url": "https://wallstreetcn.com/livenews/3131486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "直击北约峰会48小时：特朗普的“情绪过山车”震动全球",
-          "url": "https://flash.jin10.com/detail/20260710110039922800",
+          "title": "伊朗议会议长卡利巴夫：冲突不会以伊朗屈服结束。",
+          "url": "https://flash.jin10.com/detail/20260711005450893800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时34分"
+          "time_info": "01时49分"
         },
         {
-          "title": "“二鬼子”章家敦，被特朗普点名批评了",
-          "url": "https://news.ifeng.com/c/8ucs5h8eIWd",
-          "source": "凤凰网",
+          "title": "特朗普：伊朗要求继续谈判 美已同意",
+          "url": "https://www.toutiao.com/trending/7660909473094962730/",
+          "source": "今日头条",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "01时49分"
         },
         {
-          "title": "特朗普松口了，美媒：泽连斯基但不能高兴太早",
-          "url": "https://news.ifeng.com/c/8uda049HcXP",
-          "source": "凤凰网",
+          "title": "特朗普宣布美伊“停火结束”后，美军称暂无行动变化",
+          "url": "https://wallstreetcn.com/livenews/3132190",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时34分"
+          "time_info": "01时49分"
         },
         {
-          "title": "伊朗外长阿拉格齐和沙特外交大臣费萨尔通话讨论地区局势，磋商美国行动后的中东形势。",
-          "url": "https://flash.jin10.com/detail/20260710012422066800",
+          "title": "伊朗知情人士：伊美下周举行新一轮谈判消息不实",
+          "url": "https://flash.jin10.com/detail/20260711004559228800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "01时49分"
         },
         {
-          "title": "伊朗发射导弹打击美军4处军事基地",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%E6%89%93%E5%87%BB%E7%BE%8E%E5%86%9B4%E5%A4%84%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0",
-          "source": "百度热搜",
+          "title": "伊朗知情人士：伊美下周举行新一轮谈判消息不实",
+          "url": "https://wallstreetcn.com/livenews/3132187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "对话伊朗问题专家：伊朗在十字路口，决定未来的已不再是战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33553349",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "特朗普宣布美伊“停火结束”后 美军称暂无行动变化",
+          "url": "https://flash.jin10.com/detail/20260711002454575800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "分析师：伊朗局势紧张威胁南美农户化肥供应",
+          "url": "https://wallstreetcn.com/livenews/3132179",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时34分"
+          "time_info": "01时49分"
         },
         {
-          "title": "乌克兰总统泽连斯基：与美国总统特朗普详细讨论了爱国者导弹生产的许可证问题。",
-          "url": "https://flash.jin10.com/detail/20260710010810950800",
+          "title": "据伊朗媒体Fars News：知情人士否认有关伊朗与美国在伊斯兰堡举行谈判的筹备工作已完成的消息。",
+          "url": "https://flash.jin10.com/detail/20260711001703589800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时59分"
-        },
+          "time_info": "01时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ========== AI CLI / 终端工具 ========== Warp warp Fig fig Kiro kiro CLI cli AI 终端 AI 命令行 命令行助手",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "伊朗使用弹道导弹打击美方目标",
-          "url": "https://wallstreetcn.com/livenews/3131682",
+          "title": "厄瓜多尔石油公司PetroEcuador出售95万桶燃油给商品贸易巨头Trafigura。",
+          "url": "https://wallstreetcn.com/livenews/3132178",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
-          "title": "以色列防长Katz：如果威胁再次出现，以色列将准备恢复袭击伊朗。",
-          "url": "https://wallstreetcn.com/livenews/3131464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "伊朗谴责美军打击伊海事基础设施",
-          "url": "https://wallstreetcn.com/livenews/3131463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "01时49分"
         }
       ]
     },
     {
       "keyword_group": "# ========== 其他科技热点 ========== DeepSeek 梁文锋 谷歌 google gemini chatgpt openai",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
         {
           "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
           "url": "https://wallstreetcn.com/articles/3776605",
           "source": "华尔街见闻",
           "ranks": [
-            8,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 18时57分]"
-        },
-        {
-          "title": "Codex并入ChatGPT桌面端",
-          "url": "https://search.bilibili.com/all?keyword=Codex%E5%B9%B6%E5%85%A5ChatGPT%E6%A1%8C%E9%9D%A2%E7%AB%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
-          "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
-          "url": "https://wallstreetcn.com/livenews/3131490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "OpenAI正式推出GPT-5.6系列模型",
-          "url": "https://flash.jin10.com/detail/20260710012017912800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
-          "url": "https://flash.jin10.com/detail/20260710011517619800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "OpenAI：GPT‑5.6的定价以每百万个tokens为单位，分为三档模型：SOL输入为5美元，输出为30美元；TERRA输入为2.50美元，输出为15美元；LUNA输入为1美元，输出为6美元。",
-          "url": "https://flash.jin10.com/detail/20260710011209033800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "谷歌公司在广告中提高AI透明度。 谷歌在搜索、Youtube广告中新增AI信息披露标签。",
-          "url": "https://wallstreetcn.com/livenews/3131470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "OpenAI：正式推出GPT-5.6系列模型，面向公众开放使用。",
-          "url": "https://flash.jin10.com/detail/20260710010752704800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "OpenAI：GPT-5.6系列模型Sol、Terra、Luna将登陆Chatgpt、Codex及API。",
-          "url": "https://flash.jin10.com/detail/20260710010603930800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "01时49分"
         }
       ]
     }
