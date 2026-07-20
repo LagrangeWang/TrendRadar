@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-07-20T11:25:18.495034+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-07-20T18:55:10.394867+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========== 政治/国际 ========== 特朗普 伊朗",
-      "match_count": 36,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
+          "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 18时55分]"
+        },
+        {
+          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
+          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 18时55分]"
+        },
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
           "url": "https://www.cls.cn/detail/2430341",
@@ -52,26 +75,15 @@
           "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
-          "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
+          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
+          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
-        },
-        {
-          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
-          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
+          "time_info": "[18时54分 ~ 18时55分]"
         },
         {
           "title": "伊朗前外长建议出动地面部队，夺取美军驻中东基地",
@@ -140,6 +152,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "伊朗总统：未在谅解备忘录中的任何一项上让步",
+          "url": "https://flash.jin10.com/detail/20260720183700274800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "协议成废纸,伊朗掀桌硬刚美国",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
           "source": "贴吧",
@@ -174,6 +197,17 @@
           "time_info": "[01时01分 ~ 01时02分]"
         },
         {
+          "title": "特朗普隔着防弹玻璃现场看世界杯决赛",
+          "url": "https://www.toutiao.com/trending/7664367574197469203/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 18时55分]"
+        },
+        {
           "title": "伊朗称打死数十名美军人员",
           "url": "https://www.toutiao.com/trending/7664426833449848347/",
           "source": "今日头条",
@@ -183,6 +217,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 18时55分]"
         },
         {
           "title": "伊朗武装部队：将“毁灭性回击”美国野蛮行径",
@@ -216,6 +261,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "大V谈特朗普颁奖后赖着不走",
+          "url": "https://www.toutiao.com/trending/7664551205074374187/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 18时55分]"
         },
         {
           "title": "美国能源部长称对伊朗军事行动将持续进行",
@@ -260,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：在我的整个任期内，我从未有过党派或派系偏见，也没有人能够声称有人仅因政治倾向、党派归属甚至裙带关系而被聘用或免职。",
+          "url": "https://flash.jin10.com/detail/20260720183241600800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "国际原子能机构称正调查伊朗在建核电站遭袭相关事宜",
@@ -323,7 +390,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -345,7 +412,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -378,7 +445,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -400,7 +467,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         }
@@ -408,7 +475,7 @@
     },
     {
       "keyword_group": "# ========== 其他科技热点 ========== DeepSeek 梁文锋 谷歌 google gemini chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
@@ -455,6 +522,17 @@
           "time_info": "[01时01分 ~ 01时02分]"
         },
         {
+          "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
+          "url": "https://www.zhihu.com/question/2059057378591613636",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 18时55分]"
+        },
+        {
           "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
           "url": "https://www.zhihu.com/question/2062166923002090163",
           "source": "知乎",
@@ -464,6 +542,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时02分]"
+        },
+        {
+          "title": "Kimi K3再掀“DeepSeek时刻”！赢家可能不是模型公司而是存储芯片？",
+          "url": "https://flash.jin10.com/detail/20260720183636164800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         }
       ]
     }
