@@ -1,36 +1,12 @@
 {
-  "generated_at": "2026-07-25T17:51:13.264936+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2026-07-26T01:02:25.706171+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========== 政治/国际 ========== 特朗普 伊朗",
-      "match_count": 41,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
-          "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 17时51分]"
-        },
-        {
-          "title": "伊朗外长：无需更多调解者，美应改变态度",
-          "url": "https://news.ifeng.com/c/8v2WgNsUn9F",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 17时51分]"
-        },
         {
           "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
           "url": "https://news.ifeng.com/c/8v324dBINEL",
@@ -39,490 +15,151 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
+          "appearance_count": 1,
+          "time_info": "01时02分"
         },
         {
-          "title": "特朗普称欧盟“掠夺”美国企业 威胁启动301调查并征收大规模关税",
-          "url": "https://flash.jin10.com/detail/20260725011333281800",
+          "title": "伊朗石油部：尽管面临战争和制裁，年度石油收入预算目标已完成逾六成。",
+          "url": "https://flash.jin10.com/detail/20260726005417008800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "01时02分"
         },
         {
-          "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3139589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
-          "url": "https://wallstreetcn.com/livenews/3139705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
-          "url": "https://flash.jin10.com/detail/20260725102400999800",
+          "title": "伊朗石油部：在战争期间出售了115亿美元的石油，在停火期间出售了65亿美元的石油。",
+          "url": "https://flash.jin10.com/detail/20260726005108655800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "01时02分"
         },
         {
-          "title": "美国总统特朗普：伊朗现在正在与我们对话。 我认为现在还不是伊朗达成协议的时候，伊朗尚未准备好。 将出席明年的白宫记者协会晚宴。",
-          "url": "https://wallstreetcn.com/livenews/3139702",
-          "source": "华尔街见闻-快讯",
+          "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
+          "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "01时02分"
         },
         {
-          "title": "据美联社：美军周五表示，向另一艘试图突破其对伊朗港口封锁的商船开火。美军在阿曼湾使M/T Lavine号油轮丧失了航行能力。",
-          "url": "https://flash.jin10.com/detail/20260725101954738800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "据伊朗Press TV：在沙特对也门发动袭击之际，沙特港口城市延布发生剧烈爆炸。",
-          "url": "https://flash.jin10.com/detail/20260725101746595800",
-          "source": "金十数据",
+          "title": "Muriel Siebert首席投资官Mark Malek：在通胀和油价高企、投资者担心企业利润率扩张可能放缓的时候，现在真不是推行关税政策的时候。 我们现在必须非常非常谨慎。 尽管霍尔木兹海峡因伊朗战争而关闭，但股市此前已经出现过反弹，相当于用掉了它唯一的“免死金牌”。",
+          "url": "https://wallstreetcn.com/livenews/3139779",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "01时02分"
         },
         {
-          "title": "伊朗公布美军近期袭击伤亡数据",
-          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
+          "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
+          "url": "https://wallstreetcn.com/livenews/3139778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://news.ifeng.com/c/8v378W8XMdI",
           "source": "凤凰网",
           "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 10时50分]"
-        },
-        {
-          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 17时51分]"
+          "appearance_count": 1,
+          "time_info": "01时02分"
         },
         {
-          "title": "特朗普为何又打关税牌又邀中方访美",
-          "url": "https://www.toutiao.com/trending/7666318383008189971/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
-        },
-        {
-          "title": "特朗普称准备第四次竞选总统",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%87%86%E5%A4%87%E7%AC%AC%E5%9B%9B%E6%AC%A1%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
-        },
-        {
-          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3777830",
+          "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
+          "url": "https://wallstreetcn.com/articles/3777927",
           "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "特朗普称准备第四次竞选总统",
-          "url": "https://wallstreetcn.com/livenews/3139731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：有消息称，也门的袭击以沙特阿美公司的一处石油设施为目标。",
-          "url": "https://flash.jin10.com/detail/20260725101606389800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "伊朗军方称将对美军实施对等报复",
-          "url": "https://wallstreetcn.com/livenews/3139696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "据白宫官员透露，乌克兰总统泽连斯基将于下周初与美国总统特朗普会面。",
-          "url": "https://wallstreetcn.com/livenews/3139581",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "01时02分"
         },
         {
-          "title": "美国总统特朗普：尽管你看到了一些情况，但伊朗剩下的无人机其实寥寥无几。他们偶尔会搞些动作，但实际上已所剩无几。",
-          "url": "https://flash.jin10.com/detail/20260725101202111800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗局势进展非常顺利。不要相信假新闻。",
-          "url": "https://flash.jin10.com/detail/20260725101107906800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗方面目前正与我们保持联系，但我认为他们尚未准备好达成协议。",
-          "url": "https://flash.jin10.com/detail/20260725101005763800",
-          "source": "金十数据",
+          "title": "伊朗打击亚马逊数据中心，卫星图像公布",
+          "url": "https://www.cls.cn/detail/2437013",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "01时02分"
         },
         {
-          "title": "据伊朗Press TV：沙特吉赞遭也门导弹和无人机袭击，发生火灾。",
-          "url": "https://flash.jin10.com/detail/20260725100651851800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "美国总统特朗普：将出席明年的白宫新闻晚宴。",
-          "url": "https://flash.jin10.com/detail/20260725100539518800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "美国总统特朗普声称：加拿大没有邀请美方参加大桥开通仪式。 美方修改了关于跨境大桥的协议，美国获得（通行）收入的50%。",
-          "url": "https://wallstreetcn.com/livenews/3139573",
-          "source": "华尔街见闻-快讯",
+          "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
+          "source": "澎湃新闻",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "01时02分"
         },
         {
-          "title": "美国总统特朗普：加拿大取消邀请美国参加美加大桥开通仪式，这没有问题，毕竟加拿大正在向美国支付高额关税。但此前关于该大桥的协议，是由上一届政府谈判不力达成的，如今已不再有效。我们已经改变了协议条款，使美国现在能够获得50%的利润。",
-          "url": "https://flash.jin10.com/detail/20260725004555754800",
+          "title": "美国对伊朗实施“冷热交替”策略，当前首要目标可能是......",
+          "url": "https://flash.jin10.com/detail/20260725223644816800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "01时02分"
         },
         {
-          "title": "特朗普嘲笑美联储总部翻新工程造价过高",
-          "url": "https://flash.jin10.com/detail/20260725095832847800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "特朗普暂停“废除H-1B签证费用命令”的上诉请求被驳回",
-          "url": "https://wallstreetcn.com/livenews/3139683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "据伊朗Press TV：也门方面袭击炼油厂后，沙特各地出现大规模排队加油的现象。",
-          "url": "https://flash.jin10.com/detail/20260725151742483800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "一周热榜精选：美伊对抗下双海峡告急！特朗普再挥关税大棒",
-          "url": "https://flash.jin10.com/detail/20260725095254129800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "美国对伊朗金融家Zanjani的网络实施新制裁",
-          "url": "https://wallstreetcn.com/livenews/3139570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "美国总统特朗普：我敢说，这里聚集了有史以来最大规模的一群患有“特朗普精神错乱综合征”的人。",
-          "url": "https://flash.jin10.com/detail/20260725094945934800",
+          "title": "两位巴西消息人士：巴西拒绝向两名试图质询巴西选举制度的特朗普政府特使签发签证。",
+          "url": "https://flash.jin10.com/detail/20260725222304302800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "01时02分"
         },
         {
-          "title": "伊朗外长与阿曼外长通电话。",
-          "url": "https://wallstreetcn.com/livenews/3139569",
+          "title": "伊朗官员：镐山设施“目前是空的”，袭击一个空置的仓库只有利于制造虚假信息",
+          "url": "https://wallstreetcn.com/livenews/3139764",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "01时02分"
         },
         {
-          "title": "伊朗军方称将对美军实施对等报复",
-          "url": "https://flash.jin10.com/detail/20260725094811551800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "据CNN：美国总统特朗普在白宫记者协会晚宴上致辞时开玩笑说，观看那些批评他政府的报道获奖，对他而言并非易事。特朗普说：“今晚可真不容易——这么多奖项，我对这些奖项有发言权吗？”",
-          "url": "https://flash.jin10.com/detail/20260725094651072800",
+          "title": "伊朗官员：镐山设施“目前是空的”",
+          "url": "https://flash.jin10.com/detail/20260725214500074800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "报道：特朗普的电力“智囊”在力推电网重大改革后即将离任",
-          "url": "https://wallstreetcn.com/livenews/3139677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "伊朗外长说不惧威胁不屈服于美国",
-          "url": "https://wallstreetcn.com/livenews/3139714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：有报道称，沙特吉赞（Jazan）地区传出多次爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260725094008915800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "美国总统特朗普：就像我的总统任期一样，第二次总是更好。第三次会更好。我开玩笑的。",
-          "url": "https://flash.jin10.com/detail/20260725093848498800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "伊朗导弹齐发 打击多处美军目标",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E9%BD%90%E5%8F%91+%E6%89%93%E5%87%BB%E5%A4%9A%E5%A4%84%E7%BE%8E%E5%86%9B%E7%9B%AE%E6%A0%87",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "美国军方向一艘商船开火，声称后者违反“对伊朗的封锁”。 美军周五在阿曼湾造成Lavine号油轮丧失行动能力。（美联社）",
-          "url": "https://wallstreetcn.com/livenews/3139667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ========== 其他科技热点 ========== DeepSeek 梁文锋 谷歌 google gemini chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
-          "url": "https://wallstreetcn.com/livenews/3139736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
-          "url": "https://flash.jin10.com/detail/20260725172016965800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
-          "url": "https://www.zhihu.com/question/2063832242242184073",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 10时50分]"
-        },
-        {
-          "title": "OpenAI的CEO Altman：希望美国在开源AI领域胜出，也希望在专有AI模型领域也取得胜利。 “乐见”英伟达CEO在社交媒体上（针对20多家美国科技公司联合发表公开信）的表态。",
-          "url": "https://wallstreetcn.com/livenews/3139562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "01时02分"
         }
       ]
     }
