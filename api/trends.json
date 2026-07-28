@@ -1,177 +1,99 @@
 {
-  "generated_at": "2026-07-28T19:14:54.497165+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2026-07-29T01:38:21.353603+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ========== 政治/国际 ========== 特朗普 伊朗",
-      "match_count": 34,
+      "match_count": 27,
       "titles": [
         {
-          "title": "泽连斯基：与伊朗已处于战争中",
-          "url": "https://www.toutiao.com/trending/7667130069253013558/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "内塔尼亚胡访美，会与特朗普聊啥？",
-          "url": "https://news.ifeng.com/c/8v6sJsiidDd",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "特朗普向伊朗发出最后通牒",
-          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "伊朗驻俄大使：乌克兰袭击伊朗船只是犯罪行为",
-          "url": "https://flash.jin10.com/detail/20260728012752786800",
+          "title": "以色列发言人：在美国总统特朗普与以色列总理内塔尼亚胡的会晤中未讨论土耳其和F-35问题。",
+          "url": "https://flash.jin10.com/detail/20260729011422656800",
           "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "01时38分"
         },
         {
-          "title": "伊朗驻俄大使：乌克兰袭击伊朗船只是犯罪行为",
-          "url": "https://wallstreetcn.com/livenews/3140458",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
-          "url": "https://news.ifeng.com/c/8v6QrUZwqR8",
-          "source": "凤凰网",
+          "title": "以色列发言人：以色列支持美国总统特朗普选择的任何道路。",
+          "url": "https://flash.jin10.com/detail/20260729011243966800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "01时38分"
         },
         {
-          "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
-          "url": "https://news.ifeng.com/c/8v6of60c6nV",
-          "source": "凤凰网",
+          "title": "伊朗：如果阿曼拒绝我方条款，伊朗是不会承认霍尔木兹海峡南侧航线的。",
+          "url": "https://wallstreetcn.com/livenews/3141147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
+          "source": "澎湃新闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "01时38分"
         },
         {
-          "title": "事关美国军机部署，伊朗第3次警告保加利亚",
-          "url": "https://news.ifeng.com/c/8v6pJifxdFC",
+          "title": "伊朗副外长：德黑兰向阿曼提议，由伊朗负责管理霍尔木兹海峡一侧的单向航运通行，阿曼则负责管理另一侧的通行。",
+          "url": "https://flash.jin10.com/detail/20260729011225631800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "伊朗大使答凤凰：恢复美伊谈判，须有像中国这样的大国的担保",
+          "url": "https://news.ifeng.com/c/8v8RFGTOHZW",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "01时38分"
         },
         {
-          "title": "600名以色列前高官联名致信特朗普，发出警告",
-          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
-          "source": "凤凰网",
+          "title": "伊朗副外长：德黑兰向阿曼提议，由伊朗负责管理霍尔木兹海峡一侧的单向航运通行，阿曼则负责管理另一侧的通行。",
+          "url": "https://wallstreetcn.com/livenews/3141145",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 19时14分]"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 19时14分]"
-        },
-        {
-          "title": "乌克兰袭船还回嘴：伊朗没资格“装”受害者",
-          "url": "https://news.ifeng.com/c/8v6sTHp3nlX",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "泽连斯基：与伊朗已处于战争中",
-          "url": "https://news.ifeng.com/c/8v7aKFz8e8a",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "美称若谈判破裂将强力打击伊朗",
-          "url": "https://www.toutiao.com/trending/7667350797637652011/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
-          "url": "https://wallstreetcn.com/articles/3777973",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "01时38分"
         },
         {
-          "title": "美时政评论员：特朗普不希望赖清德搞“抗中保台”",
-          "url": "https://news.ifeng.com/c/8v6kAaPHBHd",
-          "source": "凤凰网",
+          "title": "效仿伊朗扼住中东原油命门？也门政府警告：胡塞武装或控制曼德海峡",
+          "url": "https://www.cls.cn/detail/2439032",
+          "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "01时38分"
         },
         {
           "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
@@ -180,260 +102,246 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "01时38分"
         },
         {
-          "title": "对伊朗停火，美国这次是“不打了”还是“打不了”？",
-          "url": "https://news.ifeng.com/c/8v6m9Pp9uJ2",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "特朗普会见内塔尼亚胡前放话：以色列“没有美国就活不下去”",
-          "url": "https://flash.jin10.com/detail/20260728103550108800",
+          "title": "伊朗副外长：目前我们的对话仅与阿曼就霍尔木兹海峡问题进行。我们与美国或任何调解方均无任何谈判。",
+          "url": "https://flash.jin10.com/detail/20260729010853561800",
           "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "01时38分"
         },
         {
-          "title": "据伊朗媒体Fars News：消息人士称，以色列炮击了黎巴嫩南部的阿里·塔希尔高地。",
-          "url": "https://flash.jin10.com/detail/20260728011120494800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "泽连斯基：乌克兰与伊朗已处于战争中",
-          "url": "https://news.ifeng.com/c/8v7xlBI6J9Z",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "伊朗否认要求与美国恢复谈判；特朗普称有耐心与伊朗达成新协议，喊话美国应拥有全球最低利率；当前白银卖出信号高企，现货黄金、美油多空拉锯，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260728103446375800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "德国央行称伊朗冲突冲击下 德国经济料仍实现增长",
-          "url": "https://wallstreetcn.com/livenews/3140969",
+          "title": "伊朗：美国（重新）施加的海上封锁不至于迫使我方重返谈判桌。",
+          "url": "https://wallstreetcn.com/livenews/3141141",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "01时38分"
+        },
+        {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "乌克兰外交部长：强调了避免局势升级以及停止伊朗对俄罗斯支持的必要性。",
+          "url": "https://flash.jin10.com/detail/20260729010721806800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "伊朗外长与乌克兰外长通电话。",
+          "url": "https://wallstreetcn.com/livenews/3141140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
         },
         {
           "title": "伊朗导弹甩开美军多枚拦截弹画面",
           "url": "https://www.toutiao.com/trending/7666729375357865515/",
           "source": "今日头条",
           "ranks": [
-            12
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "01时38分"
         },
         {
-          "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33669415",
-          "source": "澎湃新闻",
+          "title": "乌克兰外交部长：已讨论在里海袭击中遇难的伊朗水手，乌克兰的行动旨在保护自己免受俄罗斯侵略。",
+          "url": "https://flash.jin10.com/detail/20260729010645888800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "乌克兰外交部长：已致电伊朗部长，以便进行“直接对话”。",
+          "url": "https://flash.jin10.com/detail/20260729010620108800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "伊朗副外长：我们在霍尔木兹海峡的目标，既包括行使主权，也包括获取收入。如果说从霍尔木兹海峡获取收入不是我们的优先事项，那是错误的。",
+          "url": "https://flash.jin10.com/detail/20260729010256571800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "01时38分"
         },
         {
-          "title": "美国总统特朗普被问及本周美联储货币政策会议，宣称：成本正在迅速下降。 利率应该下降，美国应该拥有全球最低的利率。 美联储主席沃什很棒，但他有理事会。",
-          "url": "https://wallstreetcn.com/livenews/3140440",
+          "title": "伊朗否认特朗普的说法，称：并没有在过去16-17天内寻求与美国对话",
+          "url": "https://wallstreetcn.com/livenews/3141133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "布伦特原油日内跌幅达6.0%，报80.69美元/桶。 据以色列媒体报道，参与斡旋的调解方相信，美国与伊朗距离达成突破性进展已经不远，双方可能重启今年6月签署的谅解备忘录、即初步停火协议。",
+          "url": "https://wallstreetcn.com/livenews/3141131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "市场消息：伊朗外交部长与乌克兰外长通电话。",
+          "url": "https://flash.jin10.com/detail/20260729010151022800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国驻公投特朗普与以色列总理、乌克兰总统的会谈偏正面，富有成效。",
+          "url": "https://wallstreetcn.com/livenews/3141129",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "01时38分"
         },
         {
-          "title": "对伊朗停火 美国是不打了还是打不了",
-          "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%81%9C%E7%81%AB+%E7%BE%8E%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%89%93%E4%BA%86%E8%BF%98%E6%98%AF%E6%89%93%E4%B8%8D%E4%BA%86",
-          "source": "百度热搜",
+          "title": "伊朗副外长：我们关闭霍尔木兹海峡的目标是自我防卫，而不是损害巴基斯坦等友好国家。",
+          "url": "https://flash.jin10.com/detail/20260729010044375800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "01时38分"
         },
         {
-          "title": "特朗普称在伊朗问题上“发生一些事”的可能性很高，标普500指数转涨",
-          "url": "https://wallstreetcn.com/livenews/3140436",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗副外长：霍尔木兹海峡是伊朗国家安全的一部分，也是伊朗的一项国防能力。世界应当知道，伊朗已经提升了自身的防御能力。",
+          "url": "https://flash.jin10.com/detail/20260729010036296800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "伊朗副外长：海上封锁无法迫使伊朗进行对话。",
+          "url": "https://flash.jin10.com/detail/20260729005841484800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "01时38分"
         },
         {
-          "title": "德国10年期国债收益率跌约4个基点，美国暂停袭击伊朗使得油价回撤",
-          "url": "https://wallstreetcn.com/livenews/3140435",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗副外长：伊朗将考虑采取“任何行动”以维持对霍尔木兹海峡的控制",
+          "url": "https://flash.jin10.com/detail/20260729005746292800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "01时38分"
         },
         {
-          "title": "伊朗议会议长卡利巴夫在会议上强调，在战争状态下，政府和议会需要处理优先问题。他表示，保障民众和武装力量的生计是政府和议会的紧急且重要的优先事项。",
-          "url": "https://flash.jin10.com/detail/20260728184616377800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "特朗普：若外交努力失败就恢复对伊军事行动",
-          "url": "https://wallstreetcn.com/livenews/3140432",
+          "title": "伊朗驻华大使称伊朗未介入曼德海峡问题，呼吁从源头解决也门危机",
+          "url": "https://wallstreetcn.com/livenews/3141123",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "美军称对伊朗海上封锁期间已迫使17艘商船改道",
-          "url": "https://wallstreetcn.com/livenews/3140434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "特朗普称，将于美国东部时间周二上午9:30会见乌克兰总统泽连斯基。 特朗普与内塔尼亚胡的会晤将于周二上午11点举行。",
-          "url": "https://wallstreetcn.com/livenews/3140607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "01时38分"
         }
       ]
     },
     {
       "keyword_group": "# ========== 其他科技热点 ========== DeepSeek 梁文锋 谷歌 google gemini chatgpt openai",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI与Anthropic员工联名致信，呼吁美国政府协助治理AI",
+          "url": "https://wallstreetcn.com/livenews/3141130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "谷歌公司：在文本文档中推出Gemini支持的评论工作流（Comment Workflows）。",
+          "url": "https://wallstreetcn.com/livenews/3141128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
         {
           "title": "真逗,DeepSeek说要去吃饭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
           "source": "贴吧",
           "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 19时14分]"
-        },
-        {
-          "title": "OpenAI失控入侵,遭索赔1亿算力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 19时14分]"
-        },
-        {
-          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
-          "url": "https://wallstreetcn.com/articles/3778049",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "DeepSeek说他先去吃饭了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "01时38分"
         }
       ]
     }
